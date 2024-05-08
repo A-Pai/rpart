@@ -1,4 +1,4 @@
-1.Based on Jupyter Notebook, analyze, learn and communicate the detailed usage of the decision tree R package rpart. If there are mistakes or inappropriate, welcome to raise the issue. There are also some places that have not been understood,Please give me some advice. 基于Jupyter Notebook，解析、学习、交流决策树R包rpart的详细用法，如有错误或不妥，欢迎提出issue，其中也有一些尚未搞懂的地方，恳请网友指教。
+1. Based on Jupyter Notebook, analyze, learn and communicate the detailed usage of the decision tree R package rpart. If there are mistakes or inappropriate, welcome to raise the issue. There are also some places that have not been understood,Please give me some advice. 基于Jupyter Notebook，解析、学习、交流决策树R包rpart的详细用法，如有错误或不妥，欢迎提出issue，其中也有一些尚未搞懂的地方，恳请网友指教。
 
 1. Please pay attention to the context when running, do not run "out of context".运行时请注意上下文，不要“断章曲艺”运行。
 
