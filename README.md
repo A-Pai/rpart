@@ -4,7 +4,7 @@
 
 1. Comparison examples are often used in the tutorial, please pay attention to taste.教程中常采用对比示例，请注意品味。
 
-1. The rpart version of the tutorial is 4.1.23, and the results may vary from version to version.教程制作R版本为4.3.2，不同的版本可能结果会有差异。
+1. The rpart version of the tutorial is 4.1.23, and the results may vary from version to version.教程制作rpart 版本为4.1.23，不同的版本可能结果会有差异。
 
 
                                                                     XATU
